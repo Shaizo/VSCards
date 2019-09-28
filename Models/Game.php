@@ -1,6 +1,6 @@
 <?php
 
-private class Game {
+class Game {
 	
 }
 ?>
